@@ -1,0 +1,12 @@
+c:\users\arena\onedrive\documentos\visual studio 2015\Projects\MyFamilyTree_v1_1\MyFamilyTree_v1_1\bin\Debug\MyFamilyTree_v1_1.exe.config
+c:\users\arena\onedrive\documentos\visual studio 2015\Projects\MyFamilyTree_v1_1\MyFamilyTree_v1_1\bin\Debug\MyFamilyTree_v1_1.exe
+c:\users\arena\onedrive\documentos\visual studio 2015\Projects\MyFamilyTree_v1_1\MyFamilyTree_v1_1\bin\Debug\MyFamilyTree_v1_1.pdb
+c:\users\arena\onedrive\documentos\visual studio 2015\Projects\MyFamilyTree_v1_1\MyFamilyTree_v1_1\obj\Debug\MyFamilyTree_v1_1.csprojResolveAssemblyReference.cache
+c:\users\arena\onedrive\documentos\visual studio 2015\Projects\MyFamilyTree_v1_1\MyFamilyTree_v1_1\obj\Debug\MyFamilyTree_v1_1.Form1.resources
+c:\users\arena\onedrive\documentos\visual studio 2015\Projects\MyFamilyTree_v1_1\MyFamilyTree_v1_1\obj\Debug\MyFamilyTree_v1_1.Properties.Resources.resources
+c:\users\arena\onedrive\documentos\visual studio 2015\Projects\MyFamilyTree_v1_1\MyFamilyTree_v1_1\obj\Debug\MyFamilyTree_v1_1.csproj.GenerateResource.Cache
+c:\users\arena\onedrive\documentos\visual studio 2015\Projects\MyFamilyTree_v1_1\MyFamilyTree_v1_1\obj\Debug\MyFamilyTree_v1_1.exe
+c:\users\arena\onedrive\documentos\visual studio 2015\Projects\MyFamilyTree_v1_1\MyFamilyTree_v1_1\obj\Debug\MyFamilyTree_v1_1.pdb
+c:\users\arena\onedrive\documentos\visual studio 2015\Projects\MyFamilyTree_v1_1\MyFamilyTree_v1_1\obj\Debug\MyFamilyTree_v1_1.Form2.resources
+c:\users\arena\onedrive\documentos\visual studio 2015\Projects\MyFamilyTree_v1_1\MyFamilyTree_v1_1\obj\Debug\MyFamilyTree_v1_1.Form3.resources
+C:\Users\arena\onedrive\documentos\visual studio 2015\Projects\MyFamilyTree_v1_1\MyFamilyTree_v1_1\obj\Debug\MyFamilyTree_v1_1.Form4.resources
